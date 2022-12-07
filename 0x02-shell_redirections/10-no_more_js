@@ -1,2 +1,2 @@
 #!/binbash
-find . f -print | rm *.js
+find . -type f -print | rm *.js
