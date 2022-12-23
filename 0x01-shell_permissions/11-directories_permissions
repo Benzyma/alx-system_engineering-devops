@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r ogu+r 0x01-shell_permissions
+chmod -r ogu+x 0x01-shell_permissions
